@@ -1,0 +1,3 @@
+[submodule "practice-config"]
+	path = practice-config
+	url = https://github.com/chrome-s-test/practice-config.git
